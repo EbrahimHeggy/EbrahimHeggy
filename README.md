@@ -8,7 +8,7 @@
 <h1 align="center"></h1>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="www.linkedin.com/in/ebrahim-muuhammed-61364a209" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="EBrahim Muuhammed" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ebrahim-muuhammed-61364a209/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="EBrahim Muuhammed" height="30" width="40" /></a>
 <a href="https://www.facebook.com/EBrahim.MUuhammed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="EBrahim Muhammed" height="30" width="40" /></a>
 <a href="https://www.instagram.com/ebrahim_muuhammed/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ebrahim_muuhammed" height="30" width="40" /></a>
  <a href="https://twitter.com/EBrahimMUuhamed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@EBrahimMUuhamed" height="30" width="40" /></a>
