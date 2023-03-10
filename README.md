@@ -1,6 +1,6 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=EbrahimHeggy&label=Profile%20views&color=0e75b6&style=flat" width="200" alt="EbrahimHeggy" /> </p>
 <h1 align="center">Hi 👋, I'm Ebrahim Heggy</h1>
-<h3 align="center">I studied in Cairo University in Computer Science Department I live in Helwan I'm Junior Mobile Developer</h3>
+<h3 align="center">I'm studying at Cairo University in Computer Science Department. I'm Junior Mobile Developer</h3>
 <p align="center" color=""white ><a href="https://profile-summary-for-github.com/user/EbrahimHeggy" target="blank">My Githup Activity</a></p>
 
 - 📫 How to reach me **e.muuhammed@gmail.com**
